@@ -15,7 +15,7 @@
 
 #### 克隆本项目
 
-> git clone https://github.com/xhunmon/xhunmon.github.io.git
+> git clone https://github.com/xhunmon/pageblog.git
 
 
 #### 使用IDE打开项目（如：clion），进行更改
