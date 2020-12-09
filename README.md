@@ -1,7 +1,7 @@
 [Gitee page](https://gitee.com/) + [Hexo](https://hexo.io/) {theme：pure 和 图片处理插件：hexo-image-link} + [Typory](https://typora.io/)
 ---------------------------------
 
-#### 创建自己仓库
+#### 创建自己仓库，如：
 
 （1）github：
 - 自己的项目 https://github.com/xhunmon/
@@ -79,5 +79,7 @@
 
 > npm config set registry https://registry.npm.taobao.org
 
+
+#### 其他
 
 - 搭建过程请前往：[我的博客搭建笔记](https://qincji.gitee.io/2020/12/04/other/001blog/notes/)
