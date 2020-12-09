@@ -1,4 +1,8 @@
-[Gitee page](https://gitee.com/) + [静态页面处理Hexo](https://hexo.io/) {[theme：pure](https://github.com/cofess/hexo-theme-pure) 和 [图片处理插件：hexo-image-link](https://cloud.tencent.com/developer/article/1600295) } + [markdown编辑器Typory](https://typora.io/)
+[Gitee page](https://gitee.com/) + [静态页面处理Hexo](https://hexo.io/) {theme：pure 和 图片处理插件：hexo-image-link} + [markdown编辑器Typory](https://typora.io/)
+
+其中：
+- [图片处理插件：hexo-image-link](https://cloud.tencent.com/developer/article/1600295)
+- [theme：pure](https://github.com/cofess/hexo-theme-pure)
 
 ---------------------------------
 
