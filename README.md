@@ -1,4 +1,4 @@
-[Gitee page](https://gitee.com/) + [静态页面处理Hexo](https://hexo.io/) {theme：pure 和 图片处理插件：hexo-image-link} + [markdown编辑器Typory](https://typora.io/)
+[Gitee page](https://gitee.com/) + [Hexo](https://hexo.io/) {theme：pure 和 图片处理插件：hexo-image-link} + [Typory](https://typora.io/)
 ---------------------------------
 
 #### 创建自己仓库
