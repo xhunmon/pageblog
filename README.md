@@ -1,10 +1,4 @@
 [Gitee page](https://gitee.com/) + [静态页面处理Hexo](https://hexo.io/) {theme：pure 和 图片处理插件：hexo-image-link} + [markdown编辑器Typory](https://typora.io/)
-
-其中：
-- [hexo-image-link](https://cloud.tencent.com/developer/article/1600295)
-
-- [pure](https://github.com/cofess/hexo-theme-pure)
-
 ---------------------------------
 
 #### 创建自己仓库
@@ -47,6 +41,8 @@
 #### 主题更多使用 
 
 项目中Hexo theme主题来自 [pure](https://github.com/cofess/hexo-theme-pure) ，[更多配置以及API使用请前往官方文档](https://github.com/cofess/hexo-theme-pure/blob/master/README.cn.md) 。
+
+#### [图片处理插件安装](https://cloud.tencent.com/developer/article/1600295)
 
 
 #### 使用命令
