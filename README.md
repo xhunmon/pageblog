@@ -38,6 +38,16 @@
 
 - 把图片资源换成自己的。
 
+（5）`sidebar: custom`显示左边栏；`sidebar: none`隐藏左边栏，如生活页面：
+```c
+---
+layout: life
+comments: false
+sidebar: none
+---
+```
+
+
 #### 主题更多使用 
 
 项目中Hexo theme主题来自 [pure](https://github.com/cofess/hexo-theme-pure) ，[更多配置以及API使用请前往官方文档](https://github.com/cofess/hexo-theme-pure/blob/master/README.cn.md) 。

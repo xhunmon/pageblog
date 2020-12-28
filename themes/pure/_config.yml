@@ -69,7 +69,7 @@ widgets:
 index_widgets:
 # - category
 # - tagcloud
-# - archive  
+# - archive
 
 # widget behavior
 archive_type: 'monthly'
@@ -130,8 +130,8 @@ comment:
     ClientID:  #必须. GitHub Application Client ID.
     ClientSecret:  #必须. GitHub Application Client Secret.
   valine: # Valine. https://valine.js.org
-    appid:  # 去https://leancloud.cn/注册申请拿到appid
-    appkey:  # 去https://leancloud.cn/注册申请拿到appid
+    appid:  # your leancloud application appid
+    appkey:  # your leancloud application appkey
     notify: false # mail notifier , https://github.com/xCss/Valine/wiki
     verify: false # Verification code
     placeholder: Just go go # comment box placeholder
